@@ -4,5 +4,13 @@ Foi realizada a análise de um dataset relacionado a ataques em fluxos de rede, 
 
 
 # Vídeo 
-Para a avaliação do projeto, foi necessária a realização de um vídeo explicativo, que pode ser acessado através do seguinte link: https://drive.google.com/file/d/1SeXx3OphGnkFthC3eh2hVBmsZg2Ph8G7/view
+Para a avaliação do projeto, foi necessária a realização de um vídeo explicativo, que pode ser acessado através do seguinte link: https://drive.google.com/file/d/1SeXx3OphGnkFthC3eh2hVBmsZg2Ph8G7/view  
+
+#Participantes do Grupo
+- Carolina Gabriela  
+- Eduardo Alves  
+- Isabela Moura  
+- Karina Lima  
+- Kauanny Barros  
+  
 
